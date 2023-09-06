@@ -73,6 +73,7 @@
 <a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD" /></a>
 <a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
 <a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
+<a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" /></a>
 <a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></a>
 </div>
 
@@ -90,6 +91,11 @@
 </div>
 
 <div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hadesdday&row=1&no-bg=true)
+![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadesdday&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadesdday&theme=great-gatsby&layout=compact)](https://github.com/hadesdday)
+</br>
 
 ![](https://komarev.com/ghpvc/?username=hadesdday&style=flat-square)
 
