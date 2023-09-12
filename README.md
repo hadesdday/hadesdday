@@ -76,7 +76,7 @@
 <a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></a>
 </div>
 
-<small><strong>*</strong>👩‍💻Studying and improving technology skills everyday is my passion and improving technology skills everyday is my passion</small>
+<small><strong>*</strong>👩‍💻 Learning and practing with new technologies everyday is my passion</small>
 ---
 
 <div align="center">
