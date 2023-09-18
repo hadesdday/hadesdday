@@ -4,7 +4,7 @@
 <ul style="list-style: none;">
 <li>:seedling: I'm in constant practicing (currently Next.js / Spring Cloud)</li>
 <li>:octocat: I'm open to collaborating on web development projects in any language.</li>
-<li>:vietnam: From Thu Duc, Viet Nam</li>
+<li>:vietnam: From Ho Chi Minh City, Viet Nam</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 </ul>
 
