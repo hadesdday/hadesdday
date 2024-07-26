@@ -2,7 +2,7 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">A developer who is passionate about Web Development</h3>
 
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant practicing (currently Kafka / Nuxt )</li>
+<li>:seedling: I'm in constant practicing (currently Gin / gRPC / Kafka / Nuxt )</li>
 <li>:vietnam: From Ho Chi Minh City, Viet Nam</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 </ul>
