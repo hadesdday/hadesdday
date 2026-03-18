@@ -9,10 +9,7 @@
 
 <div align="center">
 <h3>Contact Me :handshake:</h3>
-<a href="https://github.com/hadesdday" target="_blank"><img src="https://img.shields.io/badge/-Hieu_Nguyen-black?logo=github&style=flat-square" alt="github"/></a>
 <a href="https://www.linkedin.com/in/hieu-van-nguyen" target="_blank"><img src="https://img.shields.io/badge/-Hieu_Nguyen-blue?logo=linkedin&style=flat-square" alt="linkedin"></a>
-<a href="https://www.instagram.com/hill.vng/" target="_blank"><img src="https://img.shields.io/badge/-Hieu_Nguyen-pink?logo=instagram&textColor=white&style=flat-square" alt="instagram"/></a>
-<a href="https://twitter.com/hieu_vnguyen" target="_blank"><img src="https://img.shields.io/badge/-Hieu_Nguyen-blue?logo=twitter&logoColor=white&style=flat-square" alt="twitter"/></a>
 <br/><br/>
 <a href="https://www.buymeacoffee.com/vanhieu2708" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
 </div>
@@ -36,7 +33,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
 <a href="https://google.com" target="_blank"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" /></a>
@@ -57,6 +53,7 @@
 <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 <a href="https://google.com/" target="_blank"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<a href="https://google.com/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" /></a>
 
 <h3>IDE & Tools</h3>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
